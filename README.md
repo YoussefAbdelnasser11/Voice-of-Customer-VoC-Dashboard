@@ -2,7 +2,9 @@
 
 # support-insights/
 ├── data/
+
 │   └── complains 2.csv  # الملف اللي هتشتغل عليه (انسخ الداتا اللي فوق هنا)
+
 ├── src/
 │   ├── ingest.py  # جلب الداتا من CSV
 │   ├── preprocess.py  # تنظيف النصوص العربية وإزالة التكرارات
